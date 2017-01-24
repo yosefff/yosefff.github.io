@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Welcome To My Page">
+    <title>Famous Hotels</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+ <body>
+<li><a href="register.html">Register</a> </li>
+       <form name="sign up">
+        <h2 class="one">Sign up here</h2>
+        <fieldset class="two">
+        <legend class="three">Information</legend>
+        <label class="four">username</label>
+        <input type="text">
+        <br>
+        <label class="five">Password</label>
+        <input type="password">
+        <br>
+        <input type="checkbox">
+        <label class="six">Remember me</label>
+        <Br>
+         <input class="seven" type="Submit" value="Submit">
+         <input class="eight" type="reset" value="Restore Default"
+      </form>
+          </fieldset>
+        <br>
+        <fieldset class="f">
+         <label class="l">Date of arrival</label>
+         <input type="datetime-local">
+         <br>
+         <label class="ar">Departure Date</label>
+         <input type="datetime-local">
+         <br>
+         <h3 class="c">Are you a traveler in order to enjoy or work?</h3>
+         <input type="radio" name="yes" value="yes or no"> yes <br>
+         <input type="radio" name="yes" value="yes or no"> No <br>
+         <br>
+         <label class="s">Search your hotel in any country you want to travel to it</label>
+         <input type="search">
+         <br>
+         <label class="n">Chosse the number of rooms</label>
+         <input type="number">
+         
+         </fieldset>
+        <h3 class="nine">Some pictures inside the famous hoteles</h3>
+       <fieldset class="ten">
+        <img src="one.jpg" width="200" height="200">
+        <img src="two.jpg" width="200" height="200">
+        <img src="three.jpg" width="200" height="200">
+        <img src="four.jpg"  width="200" height="200">
+        <img src="five.jpg"  width="200" height="200">
+        <img src="six.jpg"  width="200" height="200">
+        <img src="seven.jpg" width="200" height="200">
+        <img src="eight.jpg"  width="200" height="200">
+        <img src="nine.jpg" width="200" height="200">
+        <img src="ten.jpg" width="200" height="200">
+        <img src="eleven.jpg" width="200" height="200">
+        <img src="twelve.jpg" width="200" height="200">
+        <img src="thrtee.jpg" width="200" height="200">
+        <img src="fourty.jpg" width="200" height="200">
+        <img src="fifty.jpg" width="200" height="200">
+        <img src="sixty.jpg" width="200" height="200">
+        <img src="seventy.jpg" width="200" height="200">
+        <img src="eighty.jpg" width="200" height="200">
+        <img src="ninety.jpg" width="200" height="200">
+        <img src="twenty.jpg" width="200" height="200">
+        <img src="twenty one.jpg" width="200" height="200">
+        <img src="twenty two.jpg" width="200" height="200">
+        <img src="twenty three.jpg" width="200" height="200">
+        <img src="twenty fou.jpg"  width="200" height="200">
+       </fieldset>
+
+</body>
+</html>
+    
